@@ -16,3 +16,7 @@ function invert(array) {
   return array.map( x => x === 0 ? x : -x);
 }
 ```
+**Education:**  
+Belarusian State University of Informatics and Radioelectronics(2008-2013)  
+**English level:**  
+A2-B1
